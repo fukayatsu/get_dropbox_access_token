@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GetDropboxAccessToken::VERSION
   spec.authors       = ["fukayatsu"]
   spec.email         = ["fukayatsu@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A command to get Dropbox access_token/request_token}
+  spec.summary       = %q{A command to get Dropbox access_token/request_token}
   spec.homepage      = ""
   spec.license       = "MIT"
 

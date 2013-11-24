@@ -1,24 +1,14 @@
 # GetDropboxAccessToken
 
-TODO: Write a gem description
+A command to get Dropbox access_token/request_token
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'get_dropbox_access_token'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install get_dropbox_access_token
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ get_dropbox_access_token
 
 ## Contributing
 
